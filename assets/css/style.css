@@ -197,3 +197,41 @@ footer{
   font-size: 8px;
 
 }
+
+
+
+@media screen and (max-width: 980px){
+.headerWrapper{
+  width: 760px;
+}
+
+.mainWrapper{
+  width: 760px;
+}
+
+} /* end media max-width 980px */
+
+
+@media screen and (max-width: 768px){
+.headerWrapper{
+  width: 630px;
+}
+
+.mainWrapper{
+  width: 630px;
+}
+
+} /* end media max-width 768px */
+
+
+
+@media screen and (max-width: 640px){
+.headerWrapper{
+  width: 500px;
+}
+
+.mainWrapper{
+  width: 500px;
+}
+
+} /* end media max-width 640px */
